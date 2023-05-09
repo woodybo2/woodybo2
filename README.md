@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=woodybo2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-
+<h3 align="center"><b>💌 Social 💌 </b></h3>
+</br>
+<p align="center">
+<a href="mailto:yjzez34@naver.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yjzez34@naver.com"/></a>
+<a href="https://www.instagram.com/woodybo2"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/woodybo2"/></a>
   
  <br/>
  <br/>
